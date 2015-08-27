@@ -3,7 +3,7 @@
 Examples of ES6 module loading.
 
 For more information see the accompanying blog post at
-[[http://blog.29ways.co.uk/]]
+http://blog.29ways.co.uk/
 
 Run examples from the `build` folder
 
@@ -16,4 +16,5 @@ node ./single-import.js
 ```
 
 Node version: 0.12.7
+
 Transpiler: Babel 5.8.21 (babel-core 5.8.22)
