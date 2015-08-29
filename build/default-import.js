@@ -7,7 +7,8 @@ var _libCurrencyFormatter = require('./lib/CurrencyFormatter');
 var _libCurrencyFormatter2 = _interopRequireDefault(_libCurrencyFormatter);
 
 try {
-  console.log(new _libCurrencyFormatter2['default']('£').format(2));
+  console.log(new _libCurrencyFormatter2['default']().format(2));
+  console.log(new _libCurrencyFormatter2['default'](_libCurrencyFormatter.dollar_symbol).format(2));
 } catch (err) {
   console.log(err.message);
 }
