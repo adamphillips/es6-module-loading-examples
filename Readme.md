@@ -3,7 +3,7 @@
 Examples of ES6 module loading.
 
 For more information see the accompanying blog post at
-http://blog.29ways.co.uk/
+http://blog.29ways.co.uk/ecmascript-2015-the-basics-of-module-loading/
 
 Run examples from the `build` folder
 
